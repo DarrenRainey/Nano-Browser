@@ -1,0 +1,9 @@
+C:\Users\V6JPGQ233BG66JJX9PKG\Downloads\Desktop\Nano Browsr\bin\Debug\SimpleWebBrowser.exe.config
+C:\Users\V6JPGQ233BG66JJX9PKG\Downloads\Desktop\Nano Browsr\bin\Debug\SimpleWebBrowser.exe
+C:\Users\V6JPGQ233BG66JJX9PKG\Downloads\Desktop\Nano Browsr\bin\Debug\SimpleWebBrowser.pdb
+C:\Users\V6JPGQ233BG66JJX9PKG\Downloads\Desktop\Nano Browsr\obj\Debug\SimpleWebBrowser.csprojResolveAssemblyReference.cache
+C:\Users\V6JPGQ233BG66JJX9PKG\Downloads\Desktop\Nano Browsr\obj\Debug\SimpleWebBrowser.Form1.resources
+C:\Users\V6JPGQ233BG66JJX9PKG\Downloads\Desktop\Nano Browsr\obj\Debug\SimpleWebBrowser.Properties.Resources.resources
+C:\Users\V6JPGQ233BG66JJX9PKG\Downloads\Desktop\Nano Browsr\obj\Debug\SimpleWebBrowser.csproj.GenerateResource.Cache
+C:\Users\V6JPGQ233BG66JJX9PKG\Downloads\Desktop\Nano Browsr\obj\Debug\SimpleWebBrowser.exe
+C:\Users\V6JPGQ233BG66JJX9PKG\Downloads\Desktop\Nano Browsr\obj\Debug\SimpleWebBrowser.pdb
